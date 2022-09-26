@@ -1,0 +1,11 @@
+body
+{
+    background-color: rgb(65, 64, 64);
+}
+
+div p{
+    color: aqua;
+    text-align: center;
+    font-size: 30px;
+    margin-block: 400px;
+}

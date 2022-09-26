@@ -1,0 +1,36 @@
+#navbar {
+    position: sticky;
+    /* border: 1px solid red; */
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    /* width: 99%;
+    height: 9%; */
+    align-self: center;
+    background-color: rgb(75, 159, 255);
+}
+
+.manulist {
+    display: inline;
+    list-style: none;
+    font-size: 21px;
+    padding: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+div ul li a {
+    text-decoration: none;
+    color: rgb(0, 26, 255);
+    font-size: 30px;
+    /* background-color: rgb(0, 255, 85); */
+}
+
+div ul li a:hover {
+    background-color: yellow;
+    color: rgb(1, 39, 1);
+}
+
+div ul {
+    align-self: center;
+}

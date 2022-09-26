@@ -1,0 +1,27 @@
+body{
+    height: 100%;
+    width: 99%;
+}
+
+#d1{
+    display:flex;
+    position: relative;
+    height: 10%;
+    width: 100%;
+}
+
+#d2{
+    display: flex;
+    height: 80vh;
+    width: 100%;
+}
+
+#title{
+    height: 100%;
+    width: 100%;
+}
+
+#content{
+    height: 100%;
+    width: 100%;
+}
